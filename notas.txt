@@ -1,0 +1,7 @@
+git init
+git config user.name
+git config user.email
+git commit -m
+git add.
+
+git reset --hardgit
