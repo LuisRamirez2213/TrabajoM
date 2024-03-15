@@ -7,3 +7,4 @@ git add.
 git reset --hardgit
 git push
 #git pull
+git checkout
