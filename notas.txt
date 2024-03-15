@@ -5,3 +5,5 @@ git commit -m
 git add.
 
 git reset --hardgit
+git push
+#git pull
